@@ -6,14 +6,14 @@ description: >-
   total bargain! I put it on for the first time the other evening and decided I
   didn't like the sleeves so I chopped them off! I think it's much better with a
   short sleeve. So what do you think? Am I rocking the gypsy top?
-dateModified: '2016-07-10T20:14:34.325Z'
-datePublished: '2016-07-10T20:14:34.928Z'
+dateModified: '2016-07-10T20:14:41.860Z'
+datePublished: '2016-07-10T20:14:42.430Z'
 title: Rocking the gypsy top
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1554889-cb31-4ed0-a7f7-e99a2d8c106b.jpg
 sourcePath: _posts/2016-07-10-rocking-the-gypsy-top.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
