@@ -8,14 +8,14 @@ description: >-
   like hell all the time. Basically I'm a wreck unless a)I'm indoors with all
   the shutters firmly closed, b)locked in the bedroom with the air-con on, c)in
   the car with the air-con on or d)in the shade with a very cold beer ;)
-dateModified: '2016-07-10T20:02:21.315Z'
-datePublished: '2016-07-10T20:02:21.881Z'
+dateModified: '2016-07-10T20:02:25.470Z'
+datePublished: '2016-07-10T20:02:25.844Z'
 title: Dressing for the intense summer heat
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ad55abc-f384-4079-967c-7245691ffd14.jpg
 sourcePath: _posts/2016-07-10-dressing-for-the-intense-summer-heat.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
